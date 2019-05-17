@@ -1,9 +1,8 @@
 import * as server from "./server"
 
-import * as main from "./main"
-import * as up from "./up"
+import * as ctrl from "./control"
 
 server.start (3000, server.default_router, new Map ([
-  ["/", main.app],
-  ["/up", up.app],
+  ["/", ctrl.index],
+  ["/up", ctrl.up],
 ]))
