@@ -6,8 +6,7 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc --watch",
-    "start": "node lib/index.js",
-    "test": "ava 2> /dev/null"
+    "start": "node lib/index.js"
   },
   "devDependencies": {
     "typescript": "^3.4.5"
