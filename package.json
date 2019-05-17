@@ -9,10 +9,11 @@
     "start": "node lib/index.js"
   },
   "devDependencies": {
+    "@types/formidable": "^1.0.31",
+    "@types/node": "^12.0.2",
     "typescript": "^3.4.5"
   },
   "dependencies": {
-    "@types/formidable": "^1.0.31",
     "formidable": "^1.2.1"
   }
 }
