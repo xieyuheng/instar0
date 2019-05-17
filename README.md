@@ -11,6 +11,8 @@
 - `npm install; npm run build; npm run start`
 - open http://localhost:3000/ select a image file and upload
 
+![niconiconi](https://raw.githubusercontent.com/xieyuheng/image-link/master/niconiconi/niconiconi.gif)
+
 ## Contributing
 
 - We enforce C4 as collaboration protocol -- [The C4 RFC](https://rfc.zeromq.org/spec:42/C4)
